@@ -3,7 +3,7 @@
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/JoYBoy7214/go-websocket-counter) 
 ![GitHub last commit](https://img.shields.io/github/last-commit/JoYBoy7214/go-websocket-counter)
 ![GitHub issues](https://img.shields.io/github/issues/JoYBoy7214/go-websocket-counter)
-
+![GitHub license](https://img.shields.io/github/license/JoYBoy7214/go-websocket-counter)
 
 **A real-time counter application using WebSockets**.  
 Multiple clients can increment or decrement a shared counter in real time, with updates broadcasted to all connected clients.
@@ -94,4 +94,7 @@ go run load_test/loadTest.go
 Gowtham Balaji  
 
 ---
+## License
+
+This project is licensed under the MIT License.
 
